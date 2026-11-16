@@ -1,0 +1,5 @@
+# aiohttp 3.13.1 is the first release with CPython 3.14 Linux x86_64 wheels.
+-c constraints.txt
+
+aiogram>=3.4,<4
+python-dotenv>=1.0

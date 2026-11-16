@@ -1,0 +1,3 @@
+# Avoid pre-CPython-3.14 aiohttp builds that would need a local C compiler.
+# This remains compatible with Arch's current python-aiohttp (3.14.3).
+aiohttp>=3.13.1
